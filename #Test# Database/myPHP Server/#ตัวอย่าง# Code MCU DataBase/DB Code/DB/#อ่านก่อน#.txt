@@ -1,0 +1,20 @@
+=====================================================
+หากเกิดปัญหาในการมอนิเตอร์ส่งข้อมูลไปยัง server
+[HTTP] GET... failed, error: connection refused
+
+******ให้เช็ค String url = "http://ตรงนี้ให้เป็น ip เครื่องเรา (หาipโดย กด Ctrl+R เป็นหน้าต่างคำสั่ง พิมพ์ ipconfig แล้วหาดู IPv4 จะเป็น 192.168.1.ของเรา)/nodemcu/esp8266mysql/add.php?temp="+String(temp); 
+=====================================================
+******ให้ทำการ ปิด Windows Firewall ((Windows 10))
+
+Firewall & network protection
+V
+V
+ให้คลิกเข้าไปแล้วทำการ ปิด
+Private(discoverable)network
+V
+V
+กด กลับ 
+V
+V
+คลิกเข้าไปแล้วทำการ ปิด
+Public(non-discoverable)network

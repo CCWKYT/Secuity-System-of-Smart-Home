@@ -1,0 +1,10 @@
+ดำเนินการตามคลิป 
+V
+V
+V
+https://www.youtube.com/watch?time_continue=165&v=nT0Nsstkg_c
+
+=====================================
+
+ให้ copyโฟลเดอร์นี้ไปไว้ในโฟลเดอร์ htdocs ในไดร์ฟที่ลงโปรแกรม Xampp 
+E:\Xampp\htdocs\nodemcu\esp8266mysql
